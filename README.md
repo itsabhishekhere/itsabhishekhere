@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, It's Abhishek Here</h1>
 <h3 align="center">|🎓 Student | 🤖ML & DL | 👨🏻‍💻Student Mentor @girlscript | Kaggle Expert | TeamOutliers | Tensorflow |</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itsabhishekhere" alt="itsabhishekhere" /> </p>
 
 - 🔭 I’m currently working on **TensorFlow Lite**
 
