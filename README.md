@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Coding**
 
+<!--
 - 👯 I’m looking to collaborate on ***update soon***
-
-- 🤔 I’m looking for help with ***update soon***
+- 🤔 I’m looking for help with ***update soon***-->
 
 - 👨‍💻 Some of my projects are available at my [Github](https://github.com/itsabhishekhere?tab=repositories)
 
