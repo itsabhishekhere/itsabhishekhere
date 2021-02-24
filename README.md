@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, It's Abhishek Here</h1>
-<h3 align="center">|🎓 Student | 🤖ML & DL | 👨🏻‍💻Student Mentor @girlscript | Kaggle Expert | TeamOutliers | Tensorflow |</h3>
+<h3 align="center">|🎓 Student | Python ❤ | 🤖ML & DL | 👨🏻‍💻Student Mentor @YAY | Kaggle Expert | Tensorflow |</h3>
 
 <br>
 
