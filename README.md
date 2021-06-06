@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, It's Abhishek Here</h1>
-<h3 align="center">|🎓 Student | Python ❤ | 🤖ML & DL | 👨🏻‍💻Student Mentor @YAY | Kaggle Expert | Tensorflow |</h3>
+<h3 align="center">|🎓 Student | Python Devloper </h3>
 
 <br>
 
-- 🔭 I’m currently working on **TensorFlow Lite**
+- 🔭 I’m currently working on **Software Development**
 
-- 🌱 I’m currently learning **Coding**
+- 🌱 I’m currently learning **REST**
 
 <!--
 - 👯 I’m looking to collaborate on ***update soon***
@@ -15,7 +15,7 @@
 
 - 📝 I regulary write articles on **NO where**
 
-- 💬 Ask me about **Ml, Data Science, Comuter Vision, Flask, Tensorflow and SPACE**
+- 💬 Ask me about **Software Development,Machine Learning**
 
 - 📫 How to reach me **abhishekkr23rs@gmail.com**
 
