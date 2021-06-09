@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, It's Abhishek Here</h1>
-<h3 align="center">|🎓 Student | Python Devloper </h3>
+<h3 align="center">|🎓 Student | Python Devloper | MAchine Learning </h3>
 
 <br>
 
 - 🔭 I’m currently working on **Software Development**
 
-- 🌱 I’m currently learning **REST**
+- 🌱 I’m currently learning **FastAPI**
 
 <!--
 - 👯 I’m looking to collaborate on ***update soon***
@@ -13,7 +13,7 @@
 
 - 👨‍💻 Some of my projects are available at my [Github](https://github.com/itsabhishekhere?tab=repositories)
 
-- 📝 I regulary write articles on **NO where**
+- 📝 I regulary write articles in **my Brain**
 
 - 💬 Ask me about **Software Development,Machine Learning**
 
