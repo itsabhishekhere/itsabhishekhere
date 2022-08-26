@@ -3,7 +3,7 @@
 
 <br>
 
-- 🔭 I’m currently working on **Software Development**
+- 🔭 I’m currently working on **AI**
 
 - 🌱 I’m currently learning **FastAPI**
 
@@ -15,11 +15,11 @@
 
 - 📝 I regulary write articles in **my Brain**
 
-- 💬 Ask me about **Software Development,Machine Learning**
+- 💬 Ask me about **Data Science, Machine Learning**
 
 - 📫 How to reach me **abhishekkr23rs@gmail.com**
 
-- ⚡ Fun fact **I travels through Multi-Universe**
+- ⚡ Fun fact **every click you make is a datapoint**
 
 
 
