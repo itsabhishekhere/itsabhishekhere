@@ -13,7 +13,7 @@
 
 - 👨‍💻 Some of my projects are available at my [Github](https://github.com/itsabhishekhere?tab=repositories)
 
-- 📝 I regulary write articles in **my Brain**
+- 📝 I regularly write articles in **my Brain**
 
 - 💬 Ask me about **Data Science, Machine Learning**
 
