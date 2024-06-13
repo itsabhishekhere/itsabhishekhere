@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, It's Abhishek Here</h1>
-<h3 align="center">|🎓 Student | Python Devloper | MAchine Learning </h3>
+<h3 align="center">|🎓 Student | Python Devloper | Mchine Learning </h3>
 
 <br>
 
